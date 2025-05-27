@@ -1,8 +1,8 @@
-# Code Reviews
+# Code Review
 
 <!-- TOC -->
 
-- [Code Reviews](#code-reviews)
+- [Code Review](#code-review)
     - [General Information](#general-information)
         - [Why should be reviewed](#why-should-be-reviewed)
         - [Who should review](#who-should-review)
